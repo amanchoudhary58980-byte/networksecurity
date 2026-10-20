@@ -51,7 +51,7 @@ class NetworkDataExtract():
 
 if __name__ == '__main__':
     FILE_PATH = "Network_Data/phisingData.csv"
-    DATABASE = "KeshavML"
+    DATABASE = "AmanML"
     Collection = "NetworkData"
 
     networkobj = NetworkDataExtract()
